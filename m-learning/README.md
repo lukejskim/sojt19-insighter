@@ -17,41 +17,84 @@
 [link-D]: ../E04_Sect-D "Go Section-D"
 
 
-## INDEX of ML/DL
-
-
-# ML/DL Based Core Industry Big Data Analysis Expert Course
-
-<div align='right'><font size=2 color='gray'>Python For BigData @ <font color='blue'><a href='https://www.facebook.com/jskim.kr'>FB / jskim.kr</a></font>, [김진수](bigpycraft@gmail.com)</font></div>
-<hr>
-
-## S-OJT for Insighter by HRDKorea(Human Resources Development Service of Korea)
->  
-- [Section-A][link-A] : Sect1. Python Programming Basics 
-- [Section-B][link-B] : Sect2. Data Pre-processing and Analysis 
-- [Section-C][link-C] : Sect3. Web Crawling and Scraping
-- <b>[Section-D][link-D] : Sect4. Machine Learning & Deep Learning</b>
-
-[link-A]: ../E01_Sect-A "Go Section-A"
-[link-B]: ../E02_Sect-B "Go Section-B"
-[link-C]: ../E03_Sect-C "Go Section-C"
-[link-D]: ../E04_Sect-D "Go Section-D"
-
-
-<img src="../images/img_front_readme_iitp.png">
-
 ## Machine Learning for BigData
+>
 
-- 1-1. [Basics operations                                      ][pkg-11]
-- 1-2. [Linear Regression                                      ][pkg-12]
-- 1-3. [Minimizing Cost                                        ][pkg-13]
-- 1-3. [Multi-Variable linear regression                       ][pkg-14]
+- 1-1.  [ Basics operations                          ][pkg-1-1]
+- 1-2.  [ Linear Regression                          ][pkg-1-2]
+- 1-3.  [ Minimizing Cost                            ][pkg-1-3]
+- 1-4.  [ Multi-Variable linear regression           ][pkg-1-4]
+<br/><br/>
+- 2-1.  [ Logistic classifier                        ][pkg-2-1]
+- 2-2.  [ Softmax Classifier                         ][pkg-2-2]
+<br/><br/>
+- 3-1.  [ Learning rate Evaluation                   ][pkg-3-1]
+- 3-2.  [ Tensor Manipulation                        ][pkg-3-2]
+<br/><br/>
+- 4-1.  [ Neural Networks 1                          ][pkg-4-1]
+- 4-2.  [ Neural Networks 2                          ][pkg-4-2]
+- 4-2-1 [ . Neural Networks (1)                      ][pkg-4-2-1]
+- 4-2-2 [ . Neural Networks (2)                      ][pkg-4-2-2]
+<br/><br/>
+- 5-1.  [ Softmax for MNIST                          ][pkg-5-1]
+- 5-2.  [ NN for MNIST                               ][pkg-5-2]
+- 5-3.  [ MNIST NN Xavier initialization(1)          ][pkg-5-3]
+- 5-3.  [ MNIST NN Xavier initialization(2)          ][pkg-5-3]
+- 5-4.  [ MNIST NN deep                              ][pkg-5-4]
+- 5-5.  [ MNIST NN Dropout                           ][pkg-5-5]
+- Ref1. [  MNIST NN Batchnorm                        ][pkg-5-6]
+- Ref2. [  MNIST NN Higher Level API                 ][pkg-5-7]
+<br/><br/>
+- 6.    [ Convolution Neural Network                 ][pkg-6-0]
+- 6-1.  [ MNIST CNN                                  ][pkg-6-1]
+- 6-2.  [ MNIST Deep CNN                             ][pkg-6-2]
+- 6-3.  [ MNIST CNN Class                            ][pkg-6-3]
+- 6-4.  [ MNIST CNN Layers                           ][pkg-6-4]
+- 6-5.  [ MNIST CNN Ensemble Layers                  ][pkg-6-5]
+<br/><br/>
+- 7.    [ Recurrent Neural Network                   ][pkg-7-1]
+- 7-1.  [ RNN String Sequence                        ][pkg-7-1]
+- 7-2.  [ RNN Sentence Sequence                      ][pkg-7-2]
+- 7-3.  [ Only Softmax Sentence Sequence             ][pkg-7-3]
+- 7-4.  [ RNN Long Sentence                          ][pkg-7-4]
+- 7-5.  [ RNN Stock Prediction                       ][pkg-7-5]
+<br/><br/>
+- Tip.  [ DeepLearning Model Saver & Reuse           ][pkg-Tip]
 
-[pkg-11]: https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML101-Basics_operations.html                                       "Go pkg-11"
-[pkg-12]: https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML102-Linear_Regression.html                                       "Go pkg-12"
-[pkg-13]: https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML103-Minimizing_Cost.html                                         "Go pkg-13"
-[pkg-14]: https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML104-Multi-Variable_linear_regression.html                        "Go pkg-14"
 
+[pkg-1-1]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML101-Basics_operations.html                  "Go pkg-1-1"
+[pkg-1-2]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML102-Linear_Regression.html                  "Go pkg-1-2"
+[pkg-1-3]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML103-Minimizing_Cost.html                    "Go pkg-1-3"
+[pkg-1-4]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML104-Multi-Variable_linear_regression.html   "Go pkg-1-4"
+[pkg-2-1]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML201-Logistic_classifier_ver2.html           "Go pkg-2-1"
+[pkg-2-2]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML202-Softmax_Classifier.html                 "Go pkg-2-2"
+[pkg-3-1]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML301-Learning_rate_Evaluation.html           "Go pkg-3-1"
+[pkg-3-2]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML302-Tensor_Manipulation.html                "Go pkg-3-2"
+[pkg-4-1]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML401-Neural_Networks.html                    "Go pkg-4-1"
+[pkg-4-2]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML402_Neural_Networks.html                    "Go pkg-4-2"
+[pkg-4-2-1]:    https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML402_Neural_Networks_2-1.html            "Go pkg-4-2-1"
+[pkg-4-2-2]:    https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML402_Neural_Networks_2-2.html            "Go pkg-4-2-2"
+[pkg-5-1]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML511-Softmax_for_MNIST.html                  "Go pkg-5-1"
+[pkg-5-2]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML512-NN_for_MNIST.html                       "Go pkg-5-2"
+[pkg-5-3]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML513-MNIST_NN_Xavier2.html                   "Go pkg-5-3"
+[pkg-5-3]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML513-MNIST_NN_Xavier3.html                   "Go pkg-5-3"
+[pkg-5-4]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML514-MNIST_NN_deep.html                      "Go pkg-5-4"
+[pkg-5-5]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML515-MNIST_NN_Dropout.html                   "Go pkg-5-5"
+[pkg-5-6]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML516-MNIST_NN_Batchnorm.html                 "Go pkg-5-6"
+[pkg-5-7]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML517-MNIST_NN_Higher_Level_API.html          "Go pkg-5-7"
+[pkg-6-0]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML620-CNN_Basics.html                         "Go pkg-6-0"
+[pkg-6-1]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML621-MNIST_CNN.html                          "Go pkg-6-1"
+[pkg-6-2]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML622-MNIST_Deep_CNN.html                     "Go pkg-6-2"
+[pkg-6-3]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML623-MNIST_CNN_Class.html                    "Go pkg-6-3"
+[pkg-6-4]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML624-MNIST_CNN_Layers.html                   "Go pkg-6-4"
+[pkg-6-5]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML625-MNIST_CNN_Ensemble_Layers.html          "Go pkg-6-5"
+[pkg-7-1]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML721_RNN_String_Sequence.html                "Go pkg-7-1"
+[pkg-7-1]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML721_RNN_String_Sequence.html                "Go pkg-7-1"
+[pkg-7-2]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML722_RNN_Sentence_Sequence.html              "Go pkg-7-2"
+[pkg-7-3]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML723_Only_Softmax_Sentence_Sequence.html     "Go pkg-7-3"
+[pkg-7-4]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML724_RNN_Long_Sentence.html                  "Go pkg-7-4"
+[pkg-7-5]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML725_RNN_Stock_Prediction.html               "Go pkg-7-5"
+[pkg-Tip]:  https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML810_NN_Saver.html                           "Go pkg-Tip"
 
 
 
