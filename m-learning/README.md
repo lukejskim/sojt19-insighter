@@ -4,32 +4,20 @@
 <div align='right'><font size=2 color='gray'>Python For BigData @ <font color='blue'><a href='https://www.facebook.com/jskim.kr'>FB / jskim.kr</a></font>, [김진수](bigpycraft@gmail.com)</font></div>
 <hr>
 
-## IITP 2018, Innovation Growth Intensive Training in MultiCampus
+## S-OJT for Insighter by HRDKorea(Human Resources Development Service of Korea)
 >  
-- [Section-A][link-A] : Python Programming Basics 
-- [Section-B][link-B] : Python Modules for Data Analysis
-- ♣ [Midterm Test][test10] : Python Core Programming <br/><br/>
-- [Section-C][link-C] : Data Analysis Practice for BigData
-- [Section-D][link-D] : Web Crawling and Scraping
-- ♣ [Team Project][test11] : Keyword Data Analysis by Topic <br/><br/>
-- <b>[Section-E][link-E] : Machine Learning</b>
-- [Section-F][link-F] : Deep Learning
-- ♣ [Team Project][test12] : Challenge Kaggle for Machine Learning <br/><br/>
+- [Section-A][link-A] : Sect1. Python Programming Basics 
+- [Section-B][link-B] : Sect2. Data Pre-processing and Analysis 
+- [Section-C][link-C] : Sect3. Web Crawling and Scraping
+- <b>[Section-D][link-D] : Sect4. Machine Learning / Deep Learning</b>
 
-[link-A]: https://github.com/lukejskim/iitp18-multicampus/tree/master/E01_Sect-A "Go Section-A"
-[link-B]: https://github.com/lukejskim/iitp18-multicampus/tree/master/E02_Sect-B "Go Section-B"
-[link-C]: https://github.com/lukejskim/iitp18-multicampus/tree/master/E03_Sect-C "Go Section-C"
-[link-D]: https://github.com/lukejskim/iitp18-multicampus/tree/master/E04_Sect-D "Go Section-D"
-[link-E]: https://github.com/lukejskim/iitp18-multicampus/tree/master/E05_Sect-E "Go Section-E"
-[link-F]: https://github.com/lukejskim/iitp18-multicampus/tree/master/E06_Sect-F "Go Section-F"
-[test10]: https://github.com/lukejskim/iitp18-multicampus/tree/master/E10_Exam "Go Test-10"
-[test11]: https://github.com/lukejskim/iitp18-multicampus/tree/master/E11_Exam "Go Test-11"
-[test12]: https://github.com/lukejskim/iitp18-multicampus/tree/master/E12_Exam "Go Test-12"
+[link-A]: ../E01_Sect-A "Go Section-A"
+[link-B]: ../E02_Sect-B "Go Section-B"
+[link-C]: ../E03_Sect-C "Go Section-C"
+[link-D]: ../E04_Sect-D "Go Section-D"
 
 
-<img src="../images/img_front_readme_iitp.png">
-
-## Machine Learning for BigData
+## Machine Learning / Deep Learning
 
 - <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML101-Basics_operations.html                 "> 1-1. Basics operations                  </a>
 - <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML102-Linear_Regression.html                 "> 1-2. Linear Regression                  </a>
