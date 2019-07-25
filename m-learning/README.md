@@ -1,10 +1,10 @@
 
-# S-OJT for Insighter by HRDKorea(
+# S-OJT for Insighter by HRDKorea
 
 <div align='right'><font size=2 color='gray'>Python For BigData @ <font color='blue'><a href='https://www.facebook.com/jskim.kr'>FB / jskim.kr</a></font>, [김진수](bigpycraft@gmail.com)</font></div>
 <hr>
 
-## INDEX
+## Schedule for OJT
 >  
 - [Section-1][link-A] : Python Programming Basics 
 - [Section-2][link-B] : Data Pre-processing and Analysis 
@@ -17,50 +17,42 @@
 [link-D]: ../E04_Sect-D "Go Section-D"
 
 
-## Machine Learning / Deep Learning
+## INDEX of ML/DL
 
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML101-Basics_operations.html                 "> 1-1. Basics operations                  </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML102-Linear_Regression.html                 "> 1-2. Linear Regression                  </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML103-Minimizing_Cost.html                   "> 1-3. Minimizing Cost                    </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML104-Multi-Variable_linear_regression.html  "> 1-4. Multi-Variable linear regression   </a>
-<br/><br/>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML201-Logistic_classifier_ver2.html          "> 2-1. Logistic classifier                </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML202-Softmax_Classifier.html                "> 2-2. Softmax Classifier                 </a>
-<br/><br/>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML301-Learning_rate_Evaluation.html          "> 3-1. Learning rate Evaluation           </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML302-Tensor_Manipulation.html               "> 3-2. Tensor Manipulation                </a>
-<br/><br/>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML401-Neural_Networks.html                   "> 4-1. Neural Networks 1                  </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML402_Neural_Networks.html                   "> 4-2. Neural Networks 2                  </a>
-    - <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML402_Neural_Networks_2-1.html           "> 4-2-1. Neural Networks (1)              </a>
-    - <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML402_Neural_Networks_2-2.html           "> 4-2-2. Neural Networks (2)              </a>
-<br/><br/>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML511-Softmax_for_MNIST.html                 "> 5-1. Softmax for MNIST                  </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML512-NN_for_MNIST.html                      "> 5-2. NN for MNIST                       </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML513-MNIST_NN_Xavier2.html                  "> 5-3. MNIST NN Xavier initialization(1)  </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML513-MNIST_NN_Xavier3.html                  "> 5-3. MNIST NN Xavier initialization(2)  </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML514-MNIST_NN_deep.html                     "> 5-4. MNIST NN deep                      </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML515-MNIST_NN_Dropout.html                  "> 5-5. MNIST NN Dropout                   </a>
-<br/><br/>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML516-MNIST_NN_Batchnorm.html                "> Ref1. MNIST NN Batchnorm                </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML517-MNIST_NN_Higher_Level_API.html         "> Ref2. MNIST NN Higher Level API         </a>
-<br/><br/>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML620-CNN_Basics.html                        "> 6. Convolution Neural Network           </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML621-MNIST_CNN.html                         "> 6-1. MNIST CNN                          </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML622-MNIST_Deep_CNN.html                    "> 6-2. MNIST Deep CNN                     </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML623-MNIST_CNN_Class.html                   "> 6-3. MNIST CNN Class                    </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML624-MNIST_CNN_Layers.html                  "> 6-4. MNIST CNN Layers                   </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML625-MNIST_CNN_Ensemble_Layers.html         "> 6-5. MNIST CNN Ensemble Layers          </a>
-<br/><br/>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML721_RNN_String_Sequence.html               "> 7. Recurrent Neural Network             </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML721_RNN_String_Sequence.html               "> 7-1. RNN String Sequence                </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML722_RNN_Sentence_Sequence.html             "> 7-2. RNN Sentence Sequence              </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML723_Only_Softmax_Sentence_Sequence.html    "> 7-3. Only Softmax Sentence Sequence     </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML724_RNN_Long_Sentence.html                 "> 7-4. RNN Long Sentence                  </a>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML725_RNN_Stock_Prediction.html              "> 7-5. RNN Stock Prediction               </a>
-<br/><br/>
-- <a href="https://htmlpreview.github.io/?https://github.com/lukejskim/iitp18-multicampus/blob/master/E05_Sect-E/html/BDA-ML810_NN_Saver.html         "> Tip. DeepLearning Model Saver & Reuse  </a>
-<br/><br/>
+
+# ML/DL Based Core Industry Big Data Analysis Expert Course
+
+<div align='right'><font size=2 color='gray'>Python For BigData @ <font color='blue'><a href='https://www.facebook.com/jskim.kr'>FB / jskim.kr</a></font>, [김진수](bigpycraft@gmail.com)</font></div>
+<hr>
+
+## S-OJT for Insighter by HRDKorea(Human Resources Development Service of Korea)
+>  
+- [Section-A][link-A] : Sect1. Python Programming Basics 
+- [Section-B][link-B] : Sect2. Data Pre-processing and Analysis 
+- [Section-C][link-C] : Sect3. Web Crawling and Scraping
+- <b>[Section-D][link-D] : Sect4. Machine Learning & Deep Learning</b>
+
+[link-A]: ../E01_Sect-A "Go Section-A"
+[link-B]: ../E02_Sect-B "Go Section-B"
+[link-C]: ../E03_Sect-C "Go Section-C"
+[link-D]: ../E04_Sect-D "Go Section-D"
+
+
+<img src="../images/img_front_readme_iitp.png">
+
+## Machine Learning for BigData
+
+- 1-1. [Basics operations                                      ][pkg-11]
+- 1-2. [Linear Regression                                      ][pkg-12]
+- 1-3. [Minimizing Cost                                        ][pkg-13]
+- 1-3. [Multi-Variable linear regression                       ][pkg-14]
+
+[pkg-11]: https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML101-Basics_operations.html                                       "Go pkg-11"
+[pkg-12]: https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML102-Linear_Regression.html                                       "Go pkg-12"
+[pkg-13]: https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML103-Minimizing_Cost.html                                         "Go pkg-13"
+[pkg-14]: https://htmlpreview.github.io/?https://github.com/lukejskim/sojt19-insighter/blob/master/m-learning/html/BDA-ML104-Multi-Variable_linear_regression.html                        "Go pkg-14"
+
+
 
 
 <hr>
