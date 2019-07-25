@@ -1,15 +1,15 @@
 
-# ML/DL Based Core Industry Big Data Analysis Expert Course
+# S-OJT for Insighter by HRDKorea(
 
 <div align='right'><font size=2 color='gray'>Python For BigData @ <font color='blue'><a href='https://www.facebook.com/jskim.kr'>FB / jskim.kr</a></font>, [김진수](bigpycraft@gmail.com)</font></div>
 <hr>
 
-## S-OJT for Insighter by HRDKorea(Human Resources Development Service of Korea)
+## INDEX
 >  
-- [Section-A][link-A] : Sect1. Python Programming Basics 
-- [Section-B][link-B] : Sect2. Data Pre-processing and Analysis 
-- [Section-C][link-C] : Sect3. Web Crawling and Scraping
-- <b>[Section-D][link-D] : Sect4. Machine Learning / Deep Learning</b>
+- [Section-1][link-A] : Python Programming Basics 
+- [Section-2][link-B] : Data Pre-processing and Analysis 
+- [Section-3][link-C] : Web Crawling and Scraping
+- <b>[Section-4][link-D] : Machine Learning / Deep Learning</b>
 
 [link-A]: ../E01_Sect-A "Go Section-A"
 [link-B]: ../E02_Sect-B "Go Section-B"
